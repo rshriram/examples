@@ -15,7 +15,7 @@ the samples to other environments as well.
 
 The following samples are available for Amalgam8:
 
-* [Helloworld](https://github.com/amalgam8/examples/blob/master/apps/helloworld/README.md) is a single microservice app that demonstrates how to route traffic to different versions of the same microservice
+* [Helloworld](apps/helloworld/) is a single microservice app that demonstrates how to route traffic to different versions of the same microservice
 * [Bookinfo](https://github.com/amalgam8/examples/blob/master/apps/bookinfo/README.md) is a multiple microservice app used to demonstrate and experiment with several Amalgam8 features
 
 ### Setup
